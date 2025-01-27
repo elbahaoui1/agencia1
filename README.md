@@ -18,16 +18,16 @@ Welcome to **Agencia**, a sleek and modern landing page template designed for ma
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/elbahaoui1/agencia1.git```
+   git clone https://github.com/elbahaoui1/agencia1.git
 2. **Navigate to the project directory**:
     ```bash
-    cd agencia```
+    cd agencia
 3. **Install the dependencies: If you haven't already installed Node.js and npm, make sure to do so. Then, run**:
     ```bash 
-    npm install```
+    npm install
 4. **Run the development server: Start the Next.js development server by running**:
     ```bash
-    npm run dev```
+    npm run dev
 
 ## Customization
 
